@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "IIoT · Supervisión",
+    "slug": "iiot-supervision-examen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "iiotsupervision",
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSMotionUsageDescription": "Se utiliza el acelerómetro para mostrar una señal local de vibración de demostración."
+      }
+    },
+    "android": {
+      "package": "edu.ingenieria.iiotexamen"
+    }
+  }
+}
